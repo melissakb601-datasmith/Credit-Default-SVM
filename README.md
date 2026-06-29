@@ -32,7 +32,9 @@ Credit-Default-SVM
 
 # 📸 Dashboard Preview
 
+![Visual Screenshot](visuals/CCdatasample.png)
 ![Visual Screenshot](visuals/SVMcode.png)
+![Visual Screenshot](visuals/SVMoutput.png)
 
 ---
 
