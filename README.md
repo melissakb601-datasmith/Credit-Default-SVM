@@ -27,16 +27,11 @@ Credit-Default-SVM
 │── /visuals     # Model outputs, charts, and screenshots
 │── README.md
 
-# 📸 Dashboard Preview
-
-![Visual Screenshot](visuals/SVM Python Code.png)
-
-
 ---
 
 # 📸 Dashboard Preview
 
-![Visual Screenshot](visuals/dashboard_home.png)
+![Visual Screenshot](visuals/SVMcode.png)
 
 
 ---
