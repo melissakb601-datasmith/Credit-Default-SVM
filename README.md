@@ -33,7 +33,6 @@ Credit-Default-SVM
 
 ![Visual Screenshot](visuals/SVMcode.png)
 
-
 ---
 
 # 📥 How to Use
