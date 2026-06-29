@@ -34,7 +34,14 @@ Credit-Default-SVM
 
 ---
 
+# 📸 Dashboard Preview
+
+![Visual Screenshot](visuals/dashboard_home.png)
+
+
+---
+
 # 📥 How to Use
 1. **Clone** or download this repository.
-2. **Open** the `.pbip` file in Power BI Desktop.
-3. **Explore** the interactive dashboard elements.
+2. **Open** the project files in your Python environment.
+3. **Run** the Python program to generate predictions and view outputs.
