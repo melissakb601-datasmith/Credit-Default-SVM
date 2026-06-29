@@ -32,8 +32,13 @@ Credit-Default-SVM
 
 # 📸 Dashboard Preview
 
+## Customer Credit Data Sample
 ![Visual Screenshot](visuals/CCdatasample.png)
+
+## SVM Model Training Code
 ![Visual Screenshot](visuals/SVMcode.png)
+
+## SVM Prediction Output
 ![Visual Screenshot](visuals/SVMoutput.png)
 
 ---
