@@ -38,4 +38,5 @@ Credit-Default-SVM
 # 📥 How to Use
 1. **Clone** or download this repository.
 2. **Open** the project files in your Python environment.
+3. **Edit** the ccdefault_SVM.py file to include the path to the ccdata file on your local machine.
 3. **Run** the Python program to generate predictions and view outputs.
