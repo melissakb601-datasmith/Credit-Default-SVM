@@ -26,6 +26,7 @@ Credit-Default-SVM
 │── /data        # CSV dataset
 │── /visuals     # Model outputs, charts, and screenshots
 │── README.md
+```
 
 ---
 
