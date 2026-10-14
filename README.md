@@ -5,14 +5,14 @@ This project builds a Python-based machine learning model to predict whether a c
 
 **Key Project Stages**
 
-• Data Transformation: Converts raw customer data (demographics, billing history, and past payments) into clean features for analysis.
-• Model Training: Teaches an optimized SVM classifier to recognize patterns that lead to credit card defaults.
-• Performance Evaluation: Tests the model's accuracy to ensure reliable, high-precision risk forecasts.
+- **Data Transformation:** Converts raw customer data (demographics, billing history, and past payments) into clean features for analysis.
+- **Model Training:** Teaches an optimized SVM classifier to recognize patterns that lead to credit card defaults.
+- **Performance Evaluation:** Tests the model's accuracy to ensure reliable, high-precision risk forecasts.
 
 **Core Data Used**
 
-• Demographics: Age, gender, and marital status.
-• Financial Habits: Education level, past bill amounts, and history of previous payments.
+- **Demographics:** Age, gender, and marital status.
+- **Financial Habits:** Education level, past bill amounts, and history of previous payments.
 
 ---
 
