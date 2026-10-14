@@ -1,7 +1,18 @@
 # Credit Default Prediction — SVM Model
 
 ## 📌 Overview
-This project applies Support Vector Machines (SVM) to classify the likelihood of credit card default using structured customer data. The workflow focuses on transforming raw inputs into analytical features, training an optimized SVM classifier, and evaluating model performance to surface patterns in customer behavior and default risk.
+This project builds a Python-based machine learning model to predict whether a customer will default on their credit card. By analyzing structured data—like age, education, and payment history—the system uses a Support Vector Machine (SVM) algorithm to find patterns in consumer behavior and accurately forecast financial risk.
+
+**Key Project Stages**
+
+• Data Transformation: Converts raw customer data (demographics, billing history, and past payments) into clean features for analysis.
+• Model Training: Teaches an optimized SVM classifier to recognize patterns that lead to credit card defaults.
+• Performance Evaluation: Tests the model's accuracy to ensure reliable, high-precision risk forecasts.
+
+**Core Data Used**
+
+• Demographics: Age, gender, and marital status.
+• Financial Habits: Education level, past bill amounts, and history of previous payments.
 
 ---
 
